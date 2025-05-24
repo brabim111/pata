@@ -9,7 +9,7 @@ export function PricingSection() {
   const plans = [
     {
       name: "Guia PataLimpa",
-      price: "R$19,90",
+      price: "R$9,90",
       originalPrice: "R$47",
       description: "O guia essencial para treinar seu cão",
       features: ["Guia completo de treinamento PataLimpa", "Garantia de devolução do dinheiro em 30 dias"],
